@@ -1,3 +1,3 @@
 # Mainframe_JCL
 Start with the JCL programs.
-Code-001 : JOBCARD
+Code-001 : JOBCARD/Job Statement
